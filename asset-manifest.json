@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coding-ninja-react-tooptip-test/static/css/main.6f255fdf.css",
+    "main.js": "/coding-ninja-react-tooptip-test/static/js/main.ee574e95.js",
+    "static/js/787.3cbf1b22.chunk.js": "/coding-ninja-react-tooptip-test/static/js/787.3cbf1b22.chunk.js",
+    "index.html": "/coding-ninja-react-tooptip-test/index.html",
+    "main.6f255fdf.css.map": "/coding-ninja-react-tooptip-test/static/css/main.6f255fdf.css.map",
+    "main.ee574e95.js.map": "/coding-ninja-react-tooptip-test/static/js/main.ee574e95.js.map",
+    "787.3cbf1b22.chunk.js.map": "/coding-ninja-react-tooptip-test/static/js/787.3cbf1b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f255fdf.css",
+    "static/js/main.ee574e95.js"
+  ]
+}
